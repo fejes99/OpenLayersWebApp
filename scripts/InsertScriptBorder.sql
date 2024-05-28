@@ -1,0 +1,55 @@
+INSERT INTO public."Border"(name, location)
+	VALUES ('Vatin', ST_GeomFromEWKT('SRID=4326; POINT(21.27699033938355 45.22920878738301)'));
+
+INSERT INTO public."Border"(name, location)
+	VALUES ('Đala', ST_GeomFromEWKT('SRID=4326; POINT(20.114514860849642 46.157695803413866)'));
+
+INSERT INTO public."Border"(name, location)
+	VALUES ('Kelebija', ST_GeomFromEWKT('SRID=4326; POINT(19.56155157638873 46.16713908053209)'));
+	
+INSERT INTO public."Border"(name, location)
+	VALUES ('Horgoš', ST_GeomFromEWKT('SRID=4326; POINT(19.976875476196433 46.17335331953339)'));
+	
+INSERT INTO public."Border"(name, location)
+	VALUES ('Jabuka', ST_GeomFromEWKT('SRID=4326; POINT(19.47876375412356 43.33759352778799)'));
+	
+INSERT INTO public."Border"(name, location)
+	VALUES ('Gostun', ST_GeomFromEWKT('SRID=4326; POINT(19.761267477396057 43.18537320563798)'));
+	
+INSERT INTO public."Border"(name, location)
+	VALUES ('Špiljani', ST_GeomFromEWKT('SRID=4326; POINT(20.342184389024236 42.9105395410939)'));
+	
+INSERT INTO public."Border"(name, location)
+	VALUES ('Špiljani', ST_GeomFromEWKT('SRID=4326; POINT(20.342184389024236 42.9105395410939)'));
+	
+INSERT INTO public."Border"(name, location)
+	VALUES ('Batrovci', ST_GeomFromEWKT('SRID=4326; POINT(19.410474569387315 45.11060300900841)'));
+	
+INSERT INTO public."Border"(name, location)
+	VALUES ('Šid', ST_GeomFromEWKT('SRID=4326; POINT(19.176457362134215 45.1547146621764)'));
+	
+INSERT INTO public."Border"(name, location)
+	VALUES ('Kotroman', ST_GeomFromEWKT('SRID=4326; POINT(19.470820466305398 43.762950797917924)'));
+	
+INSERT INTO public."Border"(name, location)
+	VALUES ('Mali Zvornik', ST_GeomFromEWKT('SRID=4326; POINT(19.126803154692798 44.403683910844165)'));
+	
+INSERT INTO public."Border"(name, location)
+	VALUES ('Sremska Rača', ST_GeomFromEWKT('SRID=4326; POINT(19.30472693143559 44.91672974308365)'));
+	
+INSERT INTO public."Border"(name, location)
+	VALUES ('Trbušnica', ST_GeomFromEWKT('SRID=4326; POINT(19.185675748616372 44.540846522947)'));
+	
+INSERT INTO public."Border"(name, location)
+	VALUES ('Vrška Čuka', ST_GeomFromEWKT('SRID=4326; POINT(22.379795447360376 43.8503206084045)'));
+	
+INSERT INTO public."Border"(name, location)
+	VALUES ('Gradina', ST_GeomFromEWKT('SRID=4326; POINT(22.831881340137578 42.998744031613946)'));
+	
+INSERT INTO public."Border"(name, location)
+	VALUES ('Preševo', ST_GeomFromEWKT('SRID=4326; POINT(21.703485790849342 42.23977121581417)'));
+	
+	
+	
+	
+	
