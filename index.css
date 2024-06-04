@@ -8,7 +8,7 @@ body {
 .container {
   max-width: 1200px;
   margin: 0 auto;
-  padding: 0 20px;
+  padding: 0 10px;
 }
 
 .navbar {
@@ -97,4 +97,8 @@ tr:hover {
 #map {
   width: 100%;
   height: 550px;
+}
+
+img {
+  height: 40px;
 }
